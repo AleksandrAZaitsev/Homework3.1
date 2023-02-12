@@ -13,3 +13,18 @@ C:\Users\Aleksandr Zaytsev\Desktop\HomeWork 3.1\Example1\obj\Debug\net7.0\refint
 C:\Users\Aleksandr Zaytsev\Desktop\HomeWork 3.1\Example1\obj\Debug\net7.0\Example1.pdb
 C:\Users\Aleksandr Zaytsev\Desktop\HomeWork 3.1\Example1\obj\Debug\net7.0\Example1.genruntimeconfig.cache
 C:\Users\Aleksandr Zaytsev\Desktop\HomeWork 3.1\Example1\obj\Debug\net7.0\ref\Example1.dll
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\bin\Debug\net7.0\Example1.exe
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\bin\Debug\net7.0\Example1.deps.json
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\bin\Debug\net7.0\Example1.runtimeconfig.json
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\bin\Debug\net7.0\Example1.dll
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\bin\Debug\net7.0\Example1.pdb
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\Example1.csproj.AssemblyReference.cache
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\Example1.AssemblyInfoInputs.cache
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\Example1.AssemblyInfo.cs
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\Example1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\Example1.dll
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\refint\Example1.dll
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\Example1.pdb
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\Example1.genruntimeconfig.cache
+C:\Users\Aleksandr Zaytsev\Desktop\HomeWork3.1\Example1\obj\Debug\net7.0\ref\Example1.dll
